@@ -457,7 +457,7 @@ p {
 }
 .apps {
   max-width: 950px;
-  padding: 40px 25px 1770px 25px;
+  padding: 40px 25px 20px 25px;
   margin: 0 auto;
 }
 .apps__grid-row {
